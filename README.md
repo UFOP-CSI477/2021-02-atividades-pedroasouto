@@ -6,7 +6,7 @@
 - Matrícula: 19.1.8984
 - Curso: Sistemas de Informação
 - Semestre/Ano correntes: 6º semestre
-- Link para o seu GitHub: [pedroasouto](https://github.com/pedroasouto
+- Link para o seu GitHub: [pedroasouto](https://github.com/pedroasouto)
 
 ## [Projeto final:](./Projeto/README.md)
 
