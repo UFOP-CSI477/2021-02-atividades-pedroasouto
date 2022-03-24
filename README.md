@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Pedro Alexandre Souto   
+- Matrícula: 19.1.8984
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 6º semestre
+- Link para o seu GitHub: [pedroasouto](https://github.com/pedroasouto
 
 ## [Projeto final:](./Projeto/README.md)
 
