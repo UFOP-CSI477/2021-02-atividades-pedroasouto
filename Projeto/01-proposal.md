@@ -13,7 +13,7 @@
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de gerenciado de um clube de futebol, nele será apresentado informações de atletas, calendário do clube e também cadastro de treinos/fisioterapia. 
+  O trabalho final tem como tema o desenvolvimento de um sistema web responsável pelo gerenciamento de um clube de futebol, nele será apresentado informações de atletas, calendário do clube e também cadastro de treinos/fisioterapia. 
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
