@@ -1,6 +1,6 @@
 # **CSI606-2021-02 - Remoto - Proposta de Trabalho Final**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+## *Aluna(o): Pedro Alexandre Souto*
 
 --------------
 
@@ -8,28 +8,29 @@
 
 ### Resumo
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
+  Um Sistemas WEB responsável pelo gerenciamento de um clube de futebol
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de ...
+  O trabalho final tem como tema o desenvolvimento de gerenciado de um clube de futebol, nele será apresentado informações de atletas, calendário do clube e também cadastro de treinos/fisioterapia. 
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades...
+Cadastro de um atleta e as suas informações(Nome, idade, posição, cartões recebidos, histórico de lesão;
+Próximo jogo da equipe (Principal jogador do adversário, últimos resultados do adversário);
+Cadastro de treino/fisioterapia(Tipo, data, horário).
+
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
-### 3. Restrições
 
-  Neste trabalho não serão considerados ...
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
-### 4. Protótipo
+### 3. Protótipo
 
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
+  Protótipos para as páginas: https://www.figma.com/file/uUsAMkHr6o7B5Ce5pWun4j/TP---WEB?node-id=0%3A286
 
-### 5. Referências
+### 4. Referências
 
-  Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+
